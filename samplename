@@ -1,0 +1,6 @@
+public class samplename{
+    public static void main(string[]args){
+        String name="harika";
+        System.out.println("Hello,My name is"+num);
+    }
+}
